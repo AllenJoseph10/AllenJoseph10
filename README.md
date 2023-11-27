@@ -3,7 +3,7 @@
 <h1 align="center">Hey There 👋, I'm Allen Jen Joseph </h1>  
 <h3 align="center">I am passionate about diving into Software Engineering disciplines that challenge me to the core!</h3>   
   
-- 🔭 I’m currently working on **A sustainable transport rewards application design that is an alternative to Strava but our goal is to improve environmental sustainability**  
+- 🔭 I’m currently working on **A sustainable transport rewards application design that is an alternative to STRAVA but our goal is to improve environmental sustainability**  
   
 - 🌱 I’m currently learning **Haskell (Functional Programming) and C (Systems Programming)**
 
