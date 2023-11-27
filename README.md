@@ -1,17 +1,15 @@
 
 
 <h1 align="center">Hey There 👋, I'm Allen Jen Joseph </h1>  
-<h3 align="center">I am passionate about diving into Software Engineering disciplines that challenge me to the core!</h3>  
+<h3 align="center">I am passionate about diving into Software Engineering disciplines that challenge me to the core!</h3>   
   
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ramzyizza&label=Profile%20views&color=0e75b6&style=flat" alt="ramzyizza" /> </p>  
-  
-- 🔭 I’m currently working on **Sign-Lingo - A platform that is dedicated to making sign language accessible, interactive, and enjoyable for everyone, ensuring no one is left unheard.**  
+- 🔭 I’m currently working on **A sustainable transport rewards application design that is an alternative to Strava but our goal is to improve environmental sustainability**  
   
 - 🌱 I’m currently learning **Haskell (Functional Programming), C (System Programming), Java (OOP), and Javascript (Front-End)**    
   
 - 📫 How to reach me **allenjjoseph03@gmail.com**
 
-- 💻 Focus Area: Software Engineering, Human-Computer Interaction, and Software Design
+- 💻 Area of focus: Software Engineering, Human-Computer Interaction, Artificial Intelligence and Software Design
   
 <h3 align="left">Connect with me:</h3>  
 <p align="left">  
@@ -38,5 +36,5 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-AllenJenJoseph-blue)](https://www.linkedin.com/in/allenjenjoseph/)
 [![Twitter](https://img.shields.io/badge/Twitter-%40allenjenjoseph-blue)](https://www.twitter.com/AllenJenJoseph)
-[![Instagram](https://img.shields.io/badge/Instagram-%40your_instagram_handle-purple)](https://www.instagram.com/allen_joseph10/)
+[![Instagram](https://img.shields.io/badge/Instagram-%40allen_joseph10-purple)](https://www.instagram.com/allen_joseph10/)
 
