@@ -15,7 +15,9 @@
 <p align="left">  
 <a href="https://www.linkedin.com/in/allenjenjoseph/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="allen jen joseph" height="30" width="40" /></a>  
 <a href="https://instagram.com/allen_joseph10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="allen_joseph10" height="30" width="40" /></a>  
-</p>  
+</p>
+
+- 🌐 Connect with me to share ideas, collaborate on projects, or just geek out about the latest tech trends. Happy coding! 🌈
   
 <h3 align="left">Languages and Tools:</h3>  
 <p align="left"> 
@@ -28,13 +30,3 @@
   <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt="jupyter" width="40" height="40"/> </a>
   <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux" width="40" height="40"/>
 </p>
-
-
-## Let's Connect!
-
-🌐 Connect with me to share ideas, collaborate on projects, or just geek out about the latest tech trends. Happy coding! 🌈
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-AllenJenJoseph-blue)](https://www.linkedin.com/in/allenjenjoseph/)
-[![Twitter](https://img.shields.io/badge/Twitter-%40allenjenjoseph-blue)](https://www.twitter.com/AllenJenJoseph)
-[![Instagram](https://img.shields.io/badge/Instagram-%40allen_joseph10-purple)](https://www.instagram.com/allen_joseph10/)
-
