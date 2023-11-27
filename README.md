@@ -1,42 +1,42 @@
-# Hi there! 👋 I'm Allen Jen Joseph
 
-## About Me
 
-I'm a passionate 2nd-year Computer Science and Software Engineering student at the University of Birmingham. 💻 My journey in the world of code has been nothing short of exhilarating, and I'm always eager to learn and explore new technologies.
+<h1 align="center">Hey There 👋, I'm Allen Jen Joseph </h1>  
+<h3 align="center">I am passionate about diving into Software Engineering disciplines that challenge me to the core!</h3>  
+  
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ramzyizza&label=Profile%20views&color=0e75b6&style=flat" alt="ramzyizza" /> </p>  
+  
+- 🔭 I’m currently working on **Sign-Lingo - A platform that is dedicated to making sign language accessible, interactive, and enjoyable for everyone, ensuring no one is left unheard.**  
+  
+- 🌱 I’m currently learning **Haskell (Functional Programming), C (System Programming), Java (OOP), and Javascript (Front-End)**    
+  
+- 📫 How to reach me **allenjjoseph03@gmail.com**
 
-## Tech Stack
+- 💻 Focus Area: Software Engineering, Human-Computer Interaction, and Software Design
+  
+<h3 align="left">Connect with me:</h3>  
+<p align="left">  
+<a href="https://www.linkedin.com/in/allenjenjoseph/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="allen jen joseph" height="30" width="40" /></a>  
+<a href="https://instagram.com/allen_joseph10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="allen_joseph10" height="30" width="40" /></a>  
+</p>  
+  
+<h3 align="left">Languages and Tools:</h3>  
+<p align="left"> 
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
+  <a href="https://www.haskell.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Haskell-Logo.svg" alt="haskell" width="40" height="40"/> </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
+  <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt="jupyter" width="40" height="40"/> </a>
+  <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux" width="40" height="40"/>
+</p>
 
-🚀 I'm proficient in:
-- **Java** ☕
-- **Haskell** λ
-- **Python** 🐍
-- **C** 🗃️
-
-🌱 Currently diving into:
-- **C++** 🧑‍💻
-- **HTML & CSS** 🎨
-- **Figma**
-
-💡 I believe in the power of coding to transform ideas into reality. Whether it's crafting elegant Java applications, exploring the functional paradigms of Haskell, or diving into the world of algorithms with C, I find joy in every line of code.
-
-## Learning Journey
-
-📚 Alongside my coursework, I'm actively expanding my knowledge base.
-
-🔧 I'm well-versed in using Jupyter Notebooks for data exploration and analysis. 📊 Additionally, I'm familiar with the intricacies of Linux, contributing to a robust development environment.
-
-## Values in Software Engineering
-
-🤝 Collaboration: I value teamwork and believe that great software is built collaboratively.
-
-🚀 Innovation: I'm fueled by a passion for innovation and love exploring new technologies.
-
-📏 Quality: I adhere to high coding standards and prioritize writing clean, maintainable code.
 
 ## Let's Connect!
 
 🌐 Connect with me to share ideas, collaborate on projects, or just geek out about the latest tech trends. Happy coding! 🌈
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-AllenJenJoseph-blue)](https://www.linkedin.com/in/allenjenjoseph/))
-[![Twitter](https://img.shields.io/badge/Twitter-%40allenjenjoseph-blue)](https://twitter.com/AllenJenJoseph)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-AllenJenJoseph-blue)](https://www.linkedin.com/in/allenjenjoseph/)
+[![Twitter](https://img.shields.io/badge/Twitter-%40allenjenjoseph-blue)](https://www.twitter.com/AllenJenJoseph)
+[![Instagram](https://img.shields.io/badge/Instagram-%40your_instagram_handle-purple)](https://www.instagram.com/allen_joseph10/)
 
