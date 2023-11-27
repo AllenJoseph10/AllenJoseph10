@@ -5,7 +5,9 @@
   
 - 🔭 I’m currently working on **A sustainable transport rewards application design that is an alternative to Strava but our goal is to improve environmental sustainability**  
   
-- 🌱 I’m currently learning **Haskell (Functional Programming), C (System Programming), Java (OOP), Python, HTML & CSS (Web-Development) and Javascript (Front-End)**    
+- 🌱 I’m currently learning **Haskell (Functional Programming) and C (Systems Programming)**
+
+- 🌱 I’m currently working on ** Java (OOP), Python, C++ (Systems Programming), HTML & CSS (Web-Development) and Javascript (Front-End)**   
   
 - 📫 How to reach me **allenjjoseph03@gmail.com**
 
