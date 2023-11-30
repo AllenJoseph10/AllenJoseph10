@@ -7,7 +7,7 @@
   
 - 🌱 I’m currently learning **Haskell (Functional Programming), C (Systems Programming), Java (OOP), Python, C++ (Systems Programming), HTML & CSS (Web-Development) and Javascript (Front-End)**
 
-- 🌱 I’m currently working on **Java (OOP), Python, C++ (Systems Programming), HTML & CSS (Web-Development) and Javascript (Front-End)**   
+- 🌱 I’m also working on **Java (OOP), Python, C++ (Systems Programming), HTML & CSS (Web-Development) and Javascript (Front-End)**   
   
 - 📫 How to reach me **allenjjoseph03@gmail.com**
 
