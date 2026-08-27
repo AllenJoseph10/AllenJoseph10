@@ -1,6 +1,6 @@
 <h1 align="center">Hey There 👋, I'm Allen Jen Joseph</h1>
   <h3 align="center"> AI Automation Intern @ Dream · Founder @ Clipify Media</h3>
-<h4 align="center"> First Class MEng Computer Science & Software Engineering @ University of Birmingham </h4>
+<h3 align="center"> First Class MEng Computer Science & Software Engineering @ University of Birmingham </h3>
   <p align="center">I build things that turn messy data into decisions people actually act on — analytics dashboards, AI pipelines, and the automation that keeps them running.</p>
 
   ---
