@@ -35,8 +35,9 @@
 
 ### 🛠️ Selected projects
 
-- **Leads tool** — first-customer sales software for founders with no pipeline and no CRM habit; UX-led *(in progress)*
-- **Dream Content Dashboard** — multi-platform analytics with an adapter-based ingestion layer, hourly collectors, reach quality metrics and outlier detection *(private)*
+- **Leads Software** — first-customer sales software for founders with no pipeline and no CRM habit; UX-led *(in progress)*
+- **Dream Content Analytics Dashboard** — multi-platform content analytics with an adapter-based ingestion layer, hourly collectors, reach quality metrics and outlier detection *(private)*
+- **Dream Revenue Dashboard** — data visualization platform for revenue from Facebook, Instagram, Snapchat, YouTube, X and Threads *(private)*
 - **AutoClips** — podcast → viral clips generator *(private)*
 - **CV Maker** — tailors a CV to a given job description *(private)*
 - **SensEye** — assistive app for visually impaired users; led a 4-person team discovery → prototype, +25% usability rating
