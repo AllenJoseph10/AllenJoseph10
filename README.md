@@ -30,7 +30,7 @@
 
 **MEng Computer Science & Software Engineering**, University of Birmingham (2022–2026) — **First Class Honours**
 
-🏆 **Undergraduate Research Project Prize** — awarded for the best project in the entire School, across all undergraduate programmes
+🏆 **Undergraduate Research Project Prize** — awarded for the best project across all undergraduate programmes
 
 🏅 **The Birmingham Award**
 
