@@ -11,7 +11,7 @@
 - 🔭 **Building now: a leads tool for founders who haven't sold to anyone yet.** Most sales software assumes you already have a pipeline, a process and a CRM habit. This one assumes you have none of that — the whole design problem is a UI that gets someone from zero to their first customer conversation without a training course.
 - ✅ **Shipped at Dream** — the **Content Analytics Dashboard** and the **Revenue Dashboard**, both built and running. Next.js + Supabase Postgres on Vercel, ingesting **21 accounts across 8 platforms** (Instagram, YouTube, TikTok, Threads, Facebook, LinkedIn, X, Snapchat) straight from the owner APIs — ~30M followers and ~400M views a month, replacing a manual weekly spreadsheet and saving ~4 hours a week.
 - 🎬 **Clipify Media** — media agency I founded in Mar 2025. 300K+ followers and 10M+ views generated for clients, a 200+ person content team, and $200K+ in client revenue.
-- 🧪 **AutoClips** — an end-to-end AI pipeline (Python, FFmpeg, LangChain) that finds and cuts viral clips out of long-form podcasts at ~90% selection accuracy, cutting production time ~10×.
+- 🧪 **AutoClips** — an end-to-end AI pipeline (Python, FFmpeg, LangChain) that finds and cuts viral clips out of long-form podcasts at ~90% selection accuracy, cutting production time ~10× (best project in the entire School of Computer Science).
 - 📄 **CV Maker** — rewrites your CV against a specific job description, so what a recruiter reads first is the experience that role actually asked for, instead of one generic CV sent everywhere.
 - 🌱 Going deeper on **agentic AI** — LangChain, MCP servers, and evaluation harnesses for LLM pipelines.
 - 🤝 **Looking to connect with founders, and with anyone building in agentic AI.** If that's you, my inbox is open.
