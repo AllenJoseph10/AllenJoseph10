@@ -45,7 +45,7 @@
 - **CV Maker** — tailors a CV to a given job description *(private)*
 - **SensEye** — assistive app for visually impaired users; led a 4-person team discovery → prototype, +25% usability rating
 - [**Title-Generator**](https://github.com/AllenJoseph10/Title-Generator) — TypeScript tool for generating and testing content titles
-- [**Full-Stack Application Development**](https://github.com/AllenJoseph10/Full-Stack-Application-Development) · [**Object-Oriented Programming**](https://github.com/AllenJoseph10/Object-Oriented-Programming) · [**Data Structures (Java)**](https://github.com/AllenJoseph10/Data-Structures-Java) · [**Systems Programming (C)**](https://github.com/AllenJoseph10/Systems-Programming-C) · [**Functional Programming (Haskell)**](https://github.com/AllenJoseph10/Functional-Programming-Haskell-) · [**CS50P**](https://github.com/AllenJoseph10/CS50P)
+- [**Full-Stack Application Development**](https://github.com/AllenJoseph10/Full-Stack-Application-Development) · [**Object-Oriented Programming**](https://github.com/AllenJoseph10/Object-Oriented-Programming) · [**Data Structures (Java)**](https://github.com/AllenJoseph10/Data-Structures-Java) · [**Systems Programming (C)**](https://github.com/AllenJoseph10/Systems-Programming-C) · [**Functional Programming (Haskell)**](https://github.com/AllenJoseph10/Functional-Programming-Haskell-)
 
 ### 💻 Areas of focus
 
