@@ -42,7 +42,7 @@
 - **Dream Content Analytics Dashboard** — multi-platform content analytics with an adapter-based ingestion layer, hourly collectors, reach quality metrics and outlier detection *(private)*
 - **Dream Revenue Dashboard** — data visualization platform for revenue from Facebook, Instagram, Snapchat, YouTube, X and Threads *(private)*
 - **AutoClips** — podcast → viral clips generator *(private)*
-- **CV Maker** — tailors a CV to a given job description *(private)*
+- **Target My CV Maker** — tailors a CV to a given job description *(public)*
 - **SensEye** — assistive app for visually impaired users; led a 4-person team discovery → prototype, +25% usability rating
 - [**Title-Generator**](https://github.com/AllenJoseph10/Title-Generator) — TypeScript tool for generating and testing content titles
 - [**Full-Stack Application Development**](https://github.com/AllenJoseph10/Full-Stack-Application-Development) · [**Object-Oriented Programming**](https://github.com/AllenJoseph10/Object-Oriented-Programming) · [**Data Structures (Java)**](https://github.com/AllenJoseph10/Data-Structures-Java) · [**Systems Programming (C)**](https://github.com/AllenJoseph10/Systems-Programming-C) · [**Functional Programming (Haskell)**](https://github.com/AllenJoseph10/Functional-Programming-Haskell-)
